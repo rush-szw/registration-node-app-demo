@@ -1,0 +1,22 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon ./start.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.1",
+    "htpasswd": "^2.4.4",
+    "http-auth": "^4.1.2",
+    "mongoose": "^5.9.14",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
