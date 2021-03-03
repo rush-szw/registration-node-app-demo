@@ -14,7 +14,7 @@
     "htpasswd": "^2.4.4",
     "http-auth": "^4.1.2",
     "mongoose": "^5.9.14",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
